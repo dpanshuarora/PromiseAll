@@ -6,10 +6,6 @@ This script implements the functionality of promise.all() method. The promiseAll
 
 node
 
-```
-Give examples
-```
-
 ### Installing
 
 ```
